@@ -99,7 +99,7 @@ Baseline values for July to September 2026: Availability 85.6%, Performance 85.8
 ## Project Files
 
 ### Repository Deliverables
-- **Power BI Dashboard:** [`team project final.pbix`](./team%20project%20final.pbix)
+- **Power BI Dashboard:** [`manufacturing_downtime.pbix`](./team%20project%20final.pbix)
 - **Tableau Workbook:** [`Tableau Final Project -.twbx`](./Tableau%20Final%20Project%20-.twbx)
 - **Excel Dashboard:** [`Manufacturing_Downtime_Dashboard.xlsx`](./Manufacturing_Downtime_Dashboard.xlsx)
 - **Python Analysis & Prediction:** [`manufacturing_analysis.ipynb`](./manufacturing_analysis.ipynb)
