@@ -107,8 +107,5 @@ Baseline values for July to September 2026: Availability 85.6%, Performance 85.8
 
 ### Raw Datasets & Additional Resources
 All raw datasets and full project resources are available in the shared Google Drive folder:  
-[Open the project folder on Google Drive](https://drive.google.com/drive/folders/1YourFolderID) *(ملاحظة: تأكد من إبقاء رابط Google Drive الأصلي الخاص بك هنا عند اللصق)*
-
-All project files are in the shared Google Drive folder:
 
 [Open the project folder on Google Drive](https://drive.google.com/drive/folders/1wL3j7K6oV6aFrAv0JbtLODPKgA31IKPK?usp=drive_link)
